@@ -1,0 +1,4 @@
+order_id,product_id,status
+12345,1,shipped
+12346,2,delivered
+12347,3,pending
